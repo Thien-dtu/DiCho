@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "564032708584",
+    "project_id": "dicho-c5c68",
+    "storage_bucket": "dicho-c5c68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564032708584:android:0a24967138c4e4b77f0e5d",
+        "android_client_info": {
+          "package_name": "com.shin.dicho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564032708584-q2seanm2eko1lqv2u80t2msumeiv038h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shin.dicho",
+            "certificate_hash": "4cf4307ad35b5a35d27b4d31485d65609b04a22e"
+          }
+        },
+        {
+          "client_id": "564032708584-43ih1iudq48qpr5a5fomkgfce18ggodb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCSn2m1S6FU74bSeFUgZegnexURsA4KA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564032708584-43ih1iudq48qpr5a5fomkgfce18ggodb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
