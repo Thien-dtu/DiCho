@@ -9,11 +9,13 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="match_parent"
-        android:layout_height="223dp"
-        app:srcCompat="@drawable/onmart"
+        android:layout_width="300dp"
+        android:layout_gravity="center"
+        android:layout_height="150dp"
+        app:srcCompat="@drawable/logo"
         tools:layout_editor_absoluteX="0dp"
         tools:layout_editor_absoluteY="0dp"
+        android:layout_marginTop="20dp"
         tools:ignore="MissingConstraints" />
 
     <TextView
@@ -29,6 +31,24 @@
         tools:ignore="MissingConstraints">
 
     </TextView>
+
+    <ImageView
+        android:id="@+id/anh"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/onhakayeunuoc"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp"
+        tools:ignore="MissingConstraints"
+        android:layout_marginTop="20dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="45dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/bogoc_edt"
+        android:text="Bắt đầu"/>
 
 
 </LinearLayout>
